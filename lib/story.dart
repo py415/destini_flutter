@@ -3,5 +3,9 @@ class Story {
   String _choice1;
   String _choice2;
 
-  Story(this._storyTitle, this._choice1, this._choice2);
+  Story({String storyTitle, String choice1, String choice2}) {
+    _storyTitle = storyTitle;
+    _choice1 = choice1;
+    _choice2 = choice2;
+  }
 }
