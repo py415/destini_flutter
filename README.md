@@ -4,7 +4,8 @@
 1. [Overview](#Overview)
 2. [Product Specs](#Product-Specs)
 3. [App Walkthrough](#App-Walkthrough)
-4. [Credits](#Credits)
+4. [Libraries](#Libraries)
+5. [Credits](#Credits)
 
 ## Overview
 ### Description
@@ -21,9 +22,14 @@ Destini is a “choose your own adventure” game similar to the App Store hit �
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/84121045-7dba6e00-a9eb-11ea-9c0c-c83f2033753a.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-destini.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/84121024-76936000-a9eb-11ea-9ab6-b2f5e0c9c3da.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-destini.gif" width=250>
+
+## Libraries
+
+- [cupertino_icons](https://github.com/flutter/cupertino_icons) - This is an asset repo containing the default set of icon assets used by Flutter's [Cupertino widgets](https://github.com/flutter/flutter/tree/master/packages/flutter/lib/src/cupertino).
+- [pedantic](https://github.com/dart-lang/pedantic) - Most of the recommended lints directly implement the guidelines set out in [Effective Dart](https://dart.dev/guides/language/effective-dart).
 
 ## Credits
 
